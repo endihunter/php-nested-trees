@@ -1,3 +1,10 @@
 {
-  "name": "endihunter/php-nested-trees"
+  "name": "endihunter/php-nested-trees",
+  "description": "Php nested trees",
+  "keywords": ["php", "nested trees"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+  },
+  "minimum-stability": "dev"
 }
